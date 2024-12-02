@@ -27,7 +27,7 @@ const madhujeet = {
     askMeAbout: ["web dev" "UI/UX"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React", "Next.js","Remix"],
             css: ["Sass", "Tailwind", "Bootstrap"],
         },
         backEnd: {
