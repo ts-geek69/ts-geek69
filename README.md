@@ -5,18 +5,8 @@
 </em></p>
 
 [![Linkedin: anmol](https://img.shields.io/badge/-jeetu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhujeet-valsa-48b7a6256)](https://www.linkedin.com/in/madhujeet-valsa-48b7a6256)
-![GitHub followers](https://img.shields.io/github/followers/ts-geek69?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://bmujeetu-jeetu-valsas-projects.vercel.app/)
-
 
 <br/>
-
-
-
-
-
-
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
