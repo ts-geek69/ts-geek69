@@ -4,10 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-jeetu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhujeet-valsa-48b7a6256)](https://www.linkedin.com/in/madhujeet-valsa-48b7a6256)
-
-<br/>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
